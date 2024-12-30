@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MPM")(type "KiCad")(uri "${KIPRJMOD}/MPM.pretty")(options "")(descr ""))
+  (lib (name "MPS")(type "KiCad")(uri "${KIPRJMOD}/MPS.pretty")(options "")(descr ""))
+  (lib (name "Paw-connect")(type "KiCad")(uri "${KIPRJMOD}/Paw-connect.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MPS")(type "KiCad")(uri "${KIPRJMOD}/MPS.kicad_sym")(options "")(descr ""))
+  (lib (name "tp4056")(type "KiCad")(uri "${KIPRJMOD}/tp4056.kicad_sym")(options "")(descr ""))
+)
