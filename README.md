@@ -7,7 +7,7 @@ The electronics basically consists of the following:
 - TP4056 lithium charger IC for a 100mAh LiPo battery
 - MPM3810 DCDC converter to lower the voltage so all LEDs can be operated in parallel without a resistor
 - ATtiny24 microcontroller giving PWM to the MOSFETs that switch the individual letters and the LEDs on the back
-- Paw-connect as the ISP interface and as another eye catching feature
+- [Paw-connect by LeoDJ](https://github.com/LeoDJ/Paw-Connect) as the ISP interface and as another eye catching feature
 - Place for a photodiode to be able to adjust the brightness of the LEDs automatically depending on the surrounding
 
 One tricky thing was to find the right voltage for the DCDC converter output so the LEDs are not too dimm at maximum brightness and not too bright as the duty cycle of the PWM would have to be extremely small on lower brightness settings and therefore one would loose the resolution for the animations.
